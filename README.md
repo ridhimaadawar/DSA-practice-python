@@ -1,36 +1,33 @@
+
 # DSA Practice in Python 🐍
 
-This repository contains my practice problems and solutions for Data Structures and Algorithms using Python.  
-I'm using this space to build my confidence, improve problem-solving skills, and prepare for placements.
+This repository contains my Python solutions for **LeetCode Data Structures & Algorithms problems**.
+I'm using this space to build confidence, improve problem-solving skills, and stay consistent with my placement prep.
 
 ## 📚 Topics Covered
 
-- ✅ Arrays
-- 🔜 Strings
-- 🔜 Linked Lists
-- 🔜 Stack & Queue
-- 🔜 Recursion
-- 🔜 Searching & Sorting
-- 🔜 Trees
-- 🔜 Graphs
+I'll be solving problems from the following topics:
+
+* Arrays
+* Strings
+* Linked Lists
+* Stack & Queue
+* Recursion
+* Searching & Sorting
+* Trees
+* Graphs
 
 ## 📁 Structure
 
-Each topic has its own folder. Inside each folder are Python files (`.py`) for individual problems.
-
-Example:
-/arrays/
-max_in_list.py
-reverse_list.py
-sum_of_elements.py
-
+Each category of difficulty has its folder. Inside each folder are Python files (`.py`) with LeetCode problem solutions.
 
 ## ✨ Goals
 
-- Solve at least 3–5 problems per week
-- Learn clean and readable coding practices
-- Track DSA progress alongside MCA prep
+* Solve **3–5 LeetCode problems per week**
+* Write **clean, readable, and efficient Python code**
+* Track DSA progress alongside MCA preparation
 
 ---
 
 👩‍💻 Created with ❤️ by Ridhimaa Dawar
+
