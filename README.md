@@ -1,5 +1,5 @@
 
-# LEetcode Practice in Python 🐍
+# Leetcode Practice in Python 🐍
 
 This repository contains my Python solutions for **LeetCode Data Structures & Algorithms problems**.
 I'm using this space to build confidence, improve problem-solving skills, and stay consistent with my placement prep.
